@@ -1,0 +1,127 @@
+#about{
+  color: white;
+  background-color: #e8af17;
+}
+
+.midbar{
+  padding-top: 70px;
+  background-color: black;
+}
+
+.mdesc{
+  background-color: #0F0E0E;
+  width: 100%;
+  padding-bottom: 40px;
+}
+
+.mdesc p{
+  padding: 20px;
+}
+.mdesc h1{
+  padding: 20px;
+}
+
+.first{
+  padding-top: 10px;
+  width: 70%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.second{
+  padding-top: 140px;
+  width: 70%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+.third{
+  padding-top: 140px;
+  width: 70%;
+  margin: 50px auto 50px auto;
+  padding-bottom: 100px;
+  text-align: left;
+  line-height: 2;
+}
+
+.meeting{
+  width: 50%;
+  float: left;
+  margin-right: 40px;
+  border-radius: 30px;
+}
+.opening{
+  width: 50%;
+  float: right;
+  margin-left: 40px;
+  border-radius: 30px;
+}
+.today{
+  width: 50%;
+  float: left;
+  margin-right: 40px;
+  border-radius: 30px;
+}
+
+.desc{
+  padding-top: 50px;
+}
+
+.story{
+  padding-top: 50px;
+}
+
+
+
+.mid2bar{
+  margin: 0;
+  text-align: center;
+}
+.row2{
+  display: flex;
+}
+.column2{
+  flex: 33.33%;
+  padding: 30px;
+}
+.border1{
+  padding: 30px;
+  border-color: white;
+  border-style: solid;
+  padding-bottom: 30px;
+}
+.border2{
+  padding: 30px;
+  border-color: white;
+  border-style: solid;
+  padding-bottom: 30px;
+}
+.border3{
+  padding: 30px;
+  border-color: white;
+  border-style: solid;
+  padding-bottom: 30px;
+}
+
+.team{
+  border-radius: 150px;
+}
+.name{
+  font-size: 1.5rem;
+  padding-top: 30px;
+}
+.pos{
+  font-size: 1.5rem;
+  padding-top: 15px;
+}
+
+.border1 a:hover{
+  color: #B20600;
+}
+.border2 a:hover{
+  color: #B20600;
+}
+.border3 a:hover{
+  color: #B20600;
+}

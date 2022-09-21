@@ -1,0 +1,138 @@
+#home{
+  color: white;
+  background-color: #e8af17;
+}
+
+img{
+  margin: 0;
+}
+
+
+.manbg1{
+  padding-top: 80px;
+  width: 100%;
+}
+.offer{
+  width: 100%;
+  margin: 50px 0px;
+  text-align: center;
+}
+.row1{
+  display: flex;
+}
+.column1{
+  flex: 33.33%;
+  padding: 40px;
+}
+
+.offer1{
+  border-radius: 10px;
+}
+
+.midbar{
+  text-align: center;
+  background-color: #0F0E0E;
+}
+.topic1{
+  font-size: 2rem;
+  margin: 45px;
+  padding-top: 30px;
+}
+
+.category li{
+  float: left;
+  text-decoration: none;
+  font-size: 1rem;
+  color: white;
+  padding: 20px 50px;
+  font-family: 'Patua One', cursive;
+}
+.category li a:hover{
+  color: grey;
+}
+
+.category{
+  display: inline-block;
+  margin-bottom: 20px;
+}
+.burger{
+  border-style: solid;
+  border-color: white;
+  border-radius: 30px;
+  margin-right: 10px;
+}
+
+.pizza{
+  border-style: solid;
+  border-color: white;
+  border-radius: 30px;
+  margin-right: 10px;
+}
+.fries{
+  border-style: solid;
+  border-color: white;
+  border-radius: 30px;
+  margin-right: 10px;
+}
+.drinks{
+  border-style: solid;
+  border-color: white;
+  border-radius: 30px;
+  margin-right: 10px;
+}
+.dessert{
+  border-style: solid;
+  border-color: white;
+  border-radius: 30px;
+  margin-right: 10px;
+}
+.mid2bar{
+  margin: 0;
+  text-align: center;
+}
+.row2{
+  display: flex;
+}
+.column2{
+  flex: 33.33%;
+  padding: 30px;
+}
+.border1{
+  padding: 30px;
+  border-color: white;
+  border-style: dashed;
+  padding-bottom: 30px;
+}
+.border2{
+  padding: 30px;
+  border-color: white;
+  border-style: dashed;
+  padding-bottom: 30px;
+}
+.border3{
+  padding: 30px;
+  border-color: white;
+  border-style: dashed;
+  padding-bottom: 30px;
+}
+
+.burger1{
+  border-radius: 150px;
+}
+.bgmenu{
+  font-size: 1.5rem;
+  font-family: 'Patua One', cursive;
+  padding-top: 30px;
+}
+.price{
+  font-size: 1.5rem;
+  font-family: 'Patua One', cursive;
+  color: #B20600;
+  padding-top: 15px;
+}
+
+
+.promo{
+  width: 100%;
+  height: 700px;
+}

@@ -1,0 +1,120 @@
+#contact{
+    color: white;
+    background-color: #e8af17;
+}
+.connect{
+  text-align: center
+}
+.descp{
+  width: 80%;
+  text-align: center;
+  padding-left: 10%;
+}
+
+.container{
+  padding-top: 120px;
+  padding-bottom: 50px;
+  text-align: left;
+  width: 90%;
+  margin-left: 5%;
+  font-family: 'Poppins', sans-serif;
+
+}
+
+.contact-box{
+  display: flex;
+}
+.contact-left{
+  flex-basis: 65%;
+  padding: 40px 60px;
+  background-color: white;
+}
+.sent{
+  color: black;
+  font-weight: 600;
+  margin-bottom: 30px;
+}
+.contact-right{
+  flex-basis: 35%;
+  padding: 40px;
+  background-color: #e8af17;
+}
+.contact-right h3{
+  color: black;
+}
+h1{
+  margin-bottom: 10px;
+}
+.container p{
+  margin-bottom: 40px;
+}
+
+.input-row{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.input-row .input-group{
+  flex-basis: 45%;
+}
+
+input{
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid #ccc;
+  outline: none;
+  padding-bottom: 5px;
+
+}
+
+textarea{
+  width: 100%;
+  border: 1px solid #ccc;
+  outline: none;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+label{
+  margin-bottom: 6px;
+  display: block;
+  color: black;
+}
+
+ form button{
+   background-color:black;
+   width: 100px;
+   border: none;
+   outline: none;
+   color: white;
+   height: 35px;
+   border-radius: 30px;
+   margin-top: 20px;
+}
+
+
+.table1 tr td{
+  padding-right: 20px;
+  padding-top: 20px;
+}
+.table1 tr td a{
+  color: black;
+}
+.table1 tr td a:hover{
+  color: white;
+}
+
+.table2 td img{
+  width: 50px;
+  height: 50px;
+}
+
+.table2{
+  padding-left: 15%;
+}
+
+.table2 tr td{
+  padding-right: 40px;
+  padding-top: 50px;
+}
